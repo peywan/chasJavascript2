@@ -1,2 +1,6 @@
 .DS_Store
 package.json
+node_modules/.bin/nodetouch
+.gitignore
+package-lock.json
+.gitignore
